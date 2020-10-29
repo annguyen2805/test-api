@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creat successful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55dad3a9-49a1-436a-9e64-cc5db86cdf60</testCaseGuid>
+   <variable>
+      <defaultValue>'alex'</defaultValue>
+      <description></description>
+      <id>9d9955ac-b2ac-4526-b13a-0af93b896b4e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Successfull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>135621a6-0644-4292-af7f-12fe56ede963</testCaseGuid>
+   <variable>
+      <defaultValue>'eve.holt@reqres.in'</defaultValue>
+      <description></description>
+      <id>4e39b6e3-96e4-4e89-8614-f10b56abc45e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'dfsdcvd'</defaultValue>
+      <description></description>
+      <id>0d4fbaef-f4b7-44a3-864c-0376945056c8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
